@@ -1,0 +1,16 @@
+1 Audio 1 Search
+1 Audio 2 Search
+1 Audio 1 Purchase
+1 Accessories 3 Search
+1 Audio 2 Purchase
+2 Accessories 3 Search
+2 Accessories 4 Search
+2 Accessories 3 Purchase
+2 Electronics 5 Purchase
+2 Accessories 4 Search
+3 Electronics 5 Search
+3 Electronics 6 Search
+3 Electronics 5 Purchase
+3 Audio 1 Search
+3 Electronics 6 Purchase
+
