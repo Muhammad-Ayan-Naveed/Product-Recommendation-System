@@ -131,7 +131,7 @@ public:
             searchWeight = 2;
         }
         else {
-            // Tree 2: Balanced — treats both signals equally
+            // Tree 2: Balanced â€” treats both signals equally
             purchaseWeight = 1;
             searchWeight = 1;
         }
@@ -241,7 +241,7 @@ public:
 };
 
 int main() {
-    // Expanded product catalog: 15 products across 3 categories
+    
     Product products[15] = {
     {1,  "Wireless Headphones","Audio"},
     {2,  "Bluetooth Speaker",      "Audio"},
